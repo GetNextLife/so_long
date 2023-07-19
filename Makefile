@@ -30,8 +30,8 @@ SOURCES = controls1.c \
 
 OBJS = $(SOURCES:.c=.o)
 
-LIBS =  minilibx-linux/libmlx.a \
-		minilibx-linux/libmlx_Linux.a \
+LIBS =  minilibx-linux1/libmlx.a \
+		minilibx-linux1/libmlx_Linux.a \
 
 all: $(NAME)
 
