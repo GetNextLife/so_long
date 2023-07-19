@@ -1,0 +1,7 @@
+aggiungere Enemy (e vari checksefoinwe)
+non far passare il oersonaggio sulla porta.
+aprire la porta se non ci sono piu` consumabili.
+chiudere tutto il gioco se si va sulla porta aperta
+creare una funzione che faccia il free di tutto cio` che e` nella lista.
+funzione che inizializzi la lista
+parte bonus da considerare...
